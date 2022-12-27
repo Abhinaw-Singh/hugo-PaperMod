@@ -66,3 +66,12 @@ div.highlight:hover .copy-code,
 pre:hover .copy-code {
     display: block;
 }
+
+
+.dark .box.info{
+    background-color: rgba(56,139,253,0.4);
+}
+
+.dark .box{
+    color:white;
+}
